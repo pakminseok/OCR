@@ -9,3 +9,5 @@ January 2016 – February 2016 | Nanyang Technological University, Singapore
 • To determine and understand the text(Chinese language) in an image(Optical Character Recognition, OCR) 
 
 • Using C++ and OpenCV(Open Source for Binarization b/w Image and Text) and Tesseract(Open Source for OCR)
+
+https://www.youtube.com/watch?v=yWg4tYJFtw0
